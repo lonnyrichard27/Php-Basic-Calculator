@@ -8,9 +8,9 @@
 </head>
 <body>
 <form action="site.php" method="post">
-    First Num: <input type="number" name="num1" /> <br>
-    Operation: <input type="textbox" name="operation" /> <br>
-    Second Num: <input type="number" name="num2" /> <br>
+    First Num: <input type="number" name="num1"/> <br>
+    Operation: <input type="textbox" name="operation"/> <br>
+    Second Num: <input type="number" name="num2"/> <br>
     <input type="submit"/>
 </form>
  <?php 
