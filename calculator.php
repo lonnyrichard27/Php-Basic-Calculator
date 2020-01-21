@@ -23,7 +23,7 @@
         var $title;
         var $author;
         var $pages;
-        var $unsat;
+        var $author2;
 
         // constructors
         function _construct(){
