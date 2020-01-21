@@ -24,6 +24,7 @@
         var $author;
         var $pages;
         var $author2;
+        var $author3;
 
         // constructors
         function _construct(){
