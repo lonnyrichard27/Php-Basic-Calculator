@@ -26,7 +26,7 @@
 
         // constructors
         function _construct(){
-            echo "the books"
+            echo "the books";
         }
     }
 
